@@ -12,7 +12,7 @@ def main():
 
     pretty_print_letter_counts(count_letters(contents))
 
-    print("\n=== End report ===")
+    print("=== End report ===")
 
 def get_file_content(path):
     try:
